@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{9C8D567C-CCF8-4250-87B0-644F58D49F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eyeshadow", "Eyeshadow\Eyeshadow.csproj", "{E7744B58-120B-46FA-9C7E-518CCBFE5C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highliter", "Highliter\Highliter.csproj", "{C1B97690-695A-49F3-A94A-381977CD6E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LipPencil", "LipPencil\LipPencil.csproj", "{BCE160A6-5046-4651-A4DE-4BE783788B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8D567C-CCF8-4250-87B0-644F58D49F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8D567C-CCF8-4250-87B0-644F58D49F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8D567C-CCF8-4250-87B0-644F58D49F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8D567C-CCF8-4250-87B0-644F58D49F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7744B58-120B-46FA-9C7E-518CCBFE5C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7744B58-120B-46FA-9C7E-518CCBFE5C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7744B58-120B-46FA-9C7E-518CCBFE5C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7744B58-120B-46FA-9C7E-518CCBFE5C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B97690-695A-49F3-A94A-381977CD6E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B97690-695A-49F3-A94A-381977CD6E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B97690-695A-49F3-A94A-381977CD6E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B97690-695A-49F3-A94A-381977CD6E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE160A6-5046-4651-A4DE-4BE783788B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE160A6-5046-4651-A4DE-4BE783788B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE160A6-5046-4651-A4DE-4BE783788B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE160A6-5046-4651-A4DE-4BE783788B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

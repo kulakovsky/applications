@@ -1,0 +1,14 @@
+E:\lab3\Highliter\obj\Debug\Highliter.csprojResolveAssemblyReference.cache
+E:\lab3\Highliter\bin\Debug\Highliter.dll
+E:\lab3\Highliter\bin\Debug\Highliter.pdb
+E:\lab3\Highliter\bin\Debug\Serialization.exe
+E:\lab3\Highliter\bin\Debug\Serialization.pdb
+E:\lab3\Highliter\obj\Debug\Highliter.dll
+E:\lab3\Highliter\obj\Debug\Highliter.pdb
+C:\Users\Администратор\gitdir\lab4\Highliter\bin\Debug\Highliter.dll
+C:\Users\Администратор\gitdir\lab4\Highliter\bin\Debug\Highliter.pdb
+C:\Users\Администратор\gitdir\lab4\Highliter\bin\Debug\Serialization.exe
+C:\Users\Администратор\gitdir\lab4\Highliter\bin\Debug\Serialization.pdb
+C:\Users\Администратор\gitdir\lab4\Highliter\obj\Debug\Highliter.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\gitdir\lab4\Highliter\obj\Debug\Highliter.dll
+C:\Users\Администратор\gitdir\lab4\Highliter\obj\Debug\Highliter.pdb

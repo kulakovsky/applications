@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ArrayOfMakeupClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MakeupClass xsi:type="BlushClass">
+    <Name>Blush</Name>
+    <Producer>Oriflame</Producer>
+    <Price>5</Price>
+    <Color>red</Color>
+    <Type>saricoban</Type>
+  </MakeupClass>
+  <MakeupClass xsi:type="FoundationClass">
+    <Name>Foundation</Name>
+    <Producer>MaxFactor</Producer>
+    <Price>10</Price>
+    <Color>nude</Color>
+    <Type>hydrant</Type>
+  </MakeupClass>
+  <MakeupClass xsi:type="LipstickClass">
+    <Name>Lipstick</Name>
+    <Producer>Nivea</Producer>
+    <Price>3</Price>
+    <Color>pink</Color>
+    <Texture>brilliant</Texture>
+    <Type>chapstick</Type>
+  </MakeupClass>
+  <MakeupClass xsi:type="MascaraClass">
+    <Name>Mascara</Name>
+    <Producer>Borjou</Producer>
+    <Price>12</Price>
+    <Color>black</Color>
+    <Waterproof>yes</Waterproof>
+    <Type>voluminous</Type>
+  </MakeupClass>
+  <MakeupClass xsi:type="NailPolishClass">
+    <Name>NailPolish</Name>
+    <Producer>Bell</Producer>
+    <Price>2</Price>
+    <Color>green</Color>
+  </MakeupClass>
+  <MakeupClass xsi:type="PowderClass">
+    <Name>Powder</Name>
+    <Producer>Avon</Producer>
+    <Price>7</Price>
+    <Color>light</Color>
+    <Type>compact</Type>
+  </MakeupClass>
+</ArrayOfMakeupClass>

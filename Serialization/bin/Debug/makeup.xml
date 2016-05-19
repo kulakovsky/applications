@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMakeupClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MakeupClass xsi:type="BlushClass">
+    <Name>Blush</Name>
+    <Producer>Oriflame</Producer>
+    <Price>5</Price>
+    <Color>red</Color>
+    <Type>saricoban</Type>
+  </MakeupClass>
+</ArrayOfMakeupClass>

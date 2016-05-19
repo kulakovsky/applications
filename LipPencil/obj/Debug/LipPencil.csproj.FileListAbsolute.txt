@@ -1,0 +1,14 @@
+E:\lab3\LipPencil\bin\Debug\LipPencil.dll
+E:\lab3\LipPencil\bin\Debug\LipPencil.pdb
+E:\lab3\LipPencil\bin\Debug\Serialization.exe
+E:\lab3\LipPencil\bin\Debug\Serialization.pdb
+E:\lab3\LipPencil\obj\Debug\LipPencil.csprojResolveAssemblyReference.cache
+E:\lab3\LipPencil\obj\Debug\LipPencil.dll
+E:\lab3\LipPencil\obj\Debug\LipPencil.pdb
+C:\Users\Администратор\gitdir\lab4\LipPencil\bin\Debug\LipPencil.dll
+C:\Users\Администратор\gitdir\lab4\LipPencil\bin\Debug\LipPencil.pdb
+C:\Users\Администратор\gitdir\lab4\LipPencil\bin\Debug\Serialization.exe
+C:\Users\Администратор\gitdir\lab4\LipPencil\bin\Debug\Serialization.pdb
+C:\Users\Администратор\gitdir\lab4\LipPencil\obj\Debug\LipPencil.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\gitdir\lab4\LipPencil\obj\Debug\LipPencil.dll
+C:\Users\Администратор\gitdir\lab4\LipPencil\obj\Debug\LipPencil.pdb

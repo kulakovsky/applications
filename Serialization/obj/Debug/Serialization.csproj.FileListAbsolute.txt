@@ -1,0 +1,63 @@
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\obj\Debug\Serialization.pdb
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\obj\Debug\Serialization.Form1.resources
+D:\Учёба\Семестр 4\ООП\Lab3_Serialization\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\gitdir\lab3\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Администратор\gitdir\lab3\Serialization\obj\Debug\Serialization.exe
+C:\Users\Администратор\gitdir\lab3\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Администратор\gitdir\lab3\Serialization\bin\Debug\Serialization.exe
+C:\Users\Администратор\gitdir\lab3\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Администратор\gitdir\lab3\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\gitdir\lab3\Serialization\obj\Debug\Serialization.Form1.resources
+C:\Users\Администратор\gitdir\lab3\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Администратор\gitdir\lab3\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\bin\Debug\Serialization.exe.config
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\obj\Debug\Serialization.exe
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\obj\Debug\Serialization.pdb
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\bin\Debug\Serialization.exe
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\bin\Debug\Serialization.pdb
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\obj\Debug\Serialization.Form1.resources
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+D:\Учёба\Семестр 4\ООП\lab3\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+E:\ООП\lab3\Serialization\bin\Debug\Serialization.exe.config
+E:\ООП\lab3\Serialization\obj\Debug\Serialization.exe
+E:\ООП\lab3\Serialization\obj\Debug\Serialization.pdb
+E:\ООП\lab3\Serialization\bin\Debug\Serialization.exe
+E:\ООП\lab3\Serialization\bin\Debug\Serialization.pdb
+E:\ООП\lab3\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+E:\ООП\lab3\Serialization\obj\Debug\Serialization.Form1.resources
+E:\ООП\lab3\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+E:\ООП\lab3\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+H:\ООП\lab3\Serialization\bin\Debug\Serialization.exe.config
+H:\ООП\lab3\Serialization\obj\Debug\Serialization.exe
+H:\ООП\lab3\Serialization\obj\Debug\Serialization.pdb
+H:\ООП\lab3\Serialization\bin\Debug\Serialization.exe
+H:\ООП\lab3\Serialization\bin\Debug\Serialization.pdb
+H:\ООП\lab3\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+H:\ООП\lab3\Serialization\obj\Debug\Serialization.Form1.resources
+H:\ООП\lab3\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+H:\ООП\lab3\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+E:\lab3\Serialization\bin\Debug\Serialization.exe.config
+E:\lab3\Serialization\obj\Debug\Serialization.exe
+E:\lab3\Serialization\obj\Debug\Serialization.pdb
+E:\lab3\Serialization\bin\Debug\Serialization.exe
+E:\lab3\Serialization\bin\Debug\Serialization.pdb
+E:\lab3\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+E:\lab3\Serialization\obj\Debug\Serialization.Form1.resources
+E:\lab3\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+E:\lab3\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\Администратор\gitdir\lab4\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Администратор\gitdir\lab4\Serialization\obj\Debug\Serialization.exe
+C:\Users\Администратор\gitdir\lab4\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Администратор\gitdir\lab4\Serialization\bin\Debug\Serialization.exe
+C:\Users\Администратор\gitdir\lab4\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Администратор\gitdir\lab4\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\gitdir\lab4\Serialization\obj\Debug\Serialization.Form1.resources
+C:\Users\Администратор\gitdir\lab4\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Администратор\gitdir\lab4\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
